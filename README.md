@@ -1,9 +1,15 @@
-# charlohohle.github.io
+<img src="https://irocho.github.io/imaxes/logo.png" alt="" />
 
-<h1> Vaia vaia asi que viendo esto eh we </h1>
-<img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-03/16/17/enhanced/webdr07/enhanced-6456-1458165417-2.jpg?downsize=700:*&output-format=auto&output-quality=auto" alt="" />
+# Traballando con HTML+CSS
 
-Bienvenido, por desgracia haciendo este Post me fije que ya subi las tarjetas de manera no intencionada en el post anterior xd
-Igualmente te dejo una pagina web super basica con un css que creo que no hace nada, pero esta ahi por postureo.
+Neste exercicio tes que modificar todo o que poidas para demostrar que entendes todas as etiquetas, propiedades, atributos,...
 
-<a href="https://charloshohle.wordpress.com/"> Por si quieres ir a quejarte al blog, estas en tu derecho </a> 
+Arriba á dereita tes a opción de __clonar ou descargar__ a carpeta para traballar en local no teu ordenador. O contido non é moi especial:
+
+* index.html
+* estilo.css
+
+
+Orixinalmente [atopeino aquí](http://designwoop.com/2013/12/30-open-source-css3-code-samples-web-developers/) pero fun tuneando paseniño unha das dúas versións
+
+Orixe: [este artigo de i-rochiño](https://wp.me/p2OwJM-1ak)
