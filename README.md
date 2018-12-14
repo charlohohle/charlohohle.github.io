@@ -6,4 +6,4 @@
 Bienvenido, por desgracia haciendo este Post me fije que ya subi las tarjetas de manera no intencionada en el post anterior xd
 Igualmente te dejo una pagina web super basica con un css que creo que no hace nada, pero esta ahi por postureo.
 
-<a href="https://charloshohle.wordpress.com/"> Por si quieres ir a quejarte al blog, estas en tu derecho </a> |
+<a href="https://charloshohle.wordpress.com/"> Por si quieres ir a quejarte al blog, estas en tu derecho </a> 
