@@ -1,15 +1,25 @@
-<img src="https://irocho.github.io/imaxes/logo.png" alt="" />
+<html>
+<head>
+   <link rel=stylesheet  href=cx.css>
+<nav>
+<a href="celtic.html"> Visita otro bareto</a> |
+<a href="https://irocho.wordpress.com/"> Visita Irochiño</a> |
+</nav>
+<title>Page Title</title>
+</head>
+<body>
 
-# Traballando con HTML+CSS
-
-Neste exercicio tes que modificar todo o que poidas para demostrar que entendes todas as etiquetas, propiedades, atributos,...
-
-Arriba á dereita tes a opción de __clonar ou descargar__ a carpeta para traballar en local no teu ordenador. O contido non é moi especial:
-
-* index.html
-* estilo.css
+<h1>El Irlandes (Tui)</h1>
+<p> bareto precioso</p>
 
 
-Orixinalmente [atopeino aquí](http://designwoop.com/2013/12/30-open-source-css3-code-samples-web-developers/) pero fun tuneando paseniño unha das dúas versións
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
-Orixe: [este artigo de i-rochiño](https://wp.me/p2OwJM-1ak)
+<img src="imaxes/celtic2.jpg" height="300" width="400">
+
+</body>
+</html>
